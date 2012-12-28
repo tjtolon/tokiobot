@@ -7,7 +7,7 @@ License:             GPL
 License-file:        LICENSE
 Author:              Tatu Tolonen
 Maintainer:          Tatu Tolonen <tatu.tolonen@gmail.com>
-Build-Depends:       base, HandsomeSoup
+Build-Depends:       base, HandsomeSoup, hxt
 
 Executable:          tokiobot
 Main-is:             bot.hs
