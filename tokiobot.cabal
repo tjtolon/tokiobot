@@ -1,0 +1,13 @@
+Name:                tokiobot
+Version:             0.0
+Synopsis:            IRC bot that tells todays weather
+Description:         Really simple IRC bot that lives on one channel and
+		     return forecast information in Finnish when asked.
+License:             GPL
+License-file:        LICENSE
+Author:              Tatu Tolonen
+Maintainer:          Tatu Tolonen <tatu.tolonen@gmail.com>
+Build-Depends:       base, HandsomeSoup
+
+Executable:          tokiobot
+Main-is:             bot.hs
